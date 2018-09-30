@@ -24,7 +24,7 @@ func Initialize() {
 func main() {
 	Initialize();
 
-	v := C.wkeCreateWebWindow(C.WKE_WINDOW_TYPE_POPUP,C.NULL,)
-	w := &WebView{v: v}
-	w.LoadURL("http://www.baidu.com")
+	//v := C.wkeCreateWebWindow(C.WKE_WINDOW_TYPE_POPUP,C.NULL,)
+	//w := &WebView{v: v}
+	//w.LoadURL("http://www.baidu.com")
 }

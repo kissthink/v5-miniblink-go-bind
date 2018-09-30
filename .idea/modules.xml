@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/go_test_dll_32.iml" filepath="$PROJECT_DIR$/go_test_dll_32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/v5-miniblink-go-bind.iml" filepath="$PROJECT_DIR$/.idea/v5-miniblink-go-bind.iml" />
     </modules>
   </component>
 </project>
